@@ -10,6 +10,3 @@ I like front-end development and 🐱.
 
 ![Olek's github stats](https://github-readme-stats.vercel.app/api?username=ozaytsev86&hide=contribs,prs&count_private=true&show_icons=true)  
 ![Olek's most coded languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozaytsev86)
-<a href="https://now-playing-ozaytsev86.vercel.app/now-playing?open">
-    <img src="https://now-playing-joshlmao.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
