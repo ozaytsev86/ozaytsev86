@@ -1,4 +1,4 @@
-### Hi 👋, I'm Olek
+# Hi there 👋, I'm Olek
 
 I like front-end development and 🐱.
 
