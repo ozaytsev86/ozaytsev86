@@ -6,7 +6,7 @@ I like front-end development and 🐱.
 🌱 In my free time I'm working on some side projects [Gigeds](http://www.gigeds.live) and [Pomothor](https://pomothor-f46c3.firebaseapp.com)  
 📝 Write some tech articles at [DEV.to](https://dev.to/ozaytsev86)  
 I'm creator of `Create .env file action` you can check it in the [Github market](https://github.com/marketplace/actions/create-env-file-based-on-github-secrets)
-
+I'm creator and maintainer of [react-leaflet-waypoints](https://www.npmjs.com/package/react-leaflet-waypoints). React component to show waypoints using Leaflet's map.
 ## Languages and tools ⚒️
 
 ![Olek's github stats](https://github-readme-stats.vercel.app/api?username=ozaytsev86&hide=contribs,prs&count_private=true&show_icons=true)  
